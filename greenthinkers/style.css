@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #002a00;
+}
+#botoes_superiores {
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: #98ff82;
+    margin: 0;
+    align-items: center;
+    height: auto;
+}
+
+
+#botoes_superiores p {
+    margin: 0;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+
+#botoes_superiores a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+}
+#topicos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    height: 80vh;
+    margin-left: 10px;
+}
+
+#topicos p {
+    margin: 40px 0;
+}
+
+#topicos a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+/* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME */
+/* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME *//* AQUI ACABA A TELA INICIAL OU HOME */
+#titulo{
+    font-size: 35px;
+    background-color: #98ff82;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#texto{
+
+font-size: 20px;
+color: white;
+text-align: center;
+}
